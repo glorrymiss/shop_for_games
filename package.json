@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Phoenix7778.github.io/goit-project-10",
+  "homepage": "https://glorrymiss.github.io/shop_for_games",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-project-10/"
+    "build": "parcel build src/*.html --public-url /shop_for_games/"
   },
   "repository": {
     "type": "git",
